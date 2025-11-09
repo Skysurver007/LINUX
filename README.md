@@ -1,1 +1,1 @@
-# LINUX
+/etc/apt/sources.list
